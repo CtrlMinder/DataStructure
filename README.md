@@ -1,5 +1,5 @@
 # DataStructure
-DataStructure
+DataStructure  
 1.稀疏数组-目前无问题  
 2.队列  
 2.1 数组模拟队列 - show()方法应该遍历队列有效数据  
